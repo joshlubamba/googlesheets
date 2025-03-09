@@ -1,6 +1,6 @@
 // TODO: COPY API KEY PASTE YOUR API KEY
 // Guide https://help.take.app/en/article/google-sheets-integration-ytpy3p/
-const API_KEY="";
+const API_KEY="cm80f9lvz000ijy03uf0xa5iu";
 
 function importOrders() {
   // Get saved API key from script properties
